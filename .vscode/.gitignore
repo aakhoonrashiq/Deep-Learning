@@ -1,0 +1,3 @@
+.vscode
+settings.json
+data/MNIST/raw/train-images-idx3-ubyte.gz
